@@ -1,6 +1,8 @@
 # Good_Match
 Good Match program for assessment
 
+The Assessment was completed using Visual Studio 2022 as a C# Console App
+
 The requirements:
 Write a program that accepts two strings and calculates the match percentage as above.
 The program should only accept alphabetic characters and should gracefully handle invalid input
