@@ -1,0 +1,49 @@
+Zack matches Name 96%, good match!
+Billy matches f 94%, good match!
+Tommy matches f 94%, good match!
+Tommy matches m 94%, good match!
+Trini matches f 94%, good match!
+Trini matches m 94%, good match!
+Kimberly matches Name 91%, good match!
+Name matches Kimberly 91%, good match!
+Zack matches Kimberly 91%, good match!
+Billy matches m 85%, good match!
+Jason matches f 85%, good match!
+Jason matches m 85%, good match!
+Billy matches Gender 81%, good match!
+Jason matches Gender 81%, good match!
+Tommy matches Gender 81%, good match!
+Name matches Name 78%
+Zack matches f 75%
+Zack matches m 75%
+Billy matches Trini 71%
+Jason matches Billy 71%
+Jason matches Trini 71%
+Trini matches Billy 71%
+Trini matches Trini 71%
+Zack matches Gender 71%
+Jason matches Name 70%
+Name matches Billy 70%
+Name matches Trini 70%
+Trini matches Name 70%
+Zack matches Trini 70%
+Name matches f 66%
+Trini matches Gender 63%
+Billy matches Billy 62%
+Name matches Gender 62%
+Tommy matches Trini 62%
+Billy matches Name 61%
+Kimberly matches f 61%
+Kimberly matches m 61%
+Zack matches Billy 61%
+Name matches m 57%
+Tommy matches Billy 53%
+Tommy matches Name 52%
+Kimberly matches Kimberly 23%
+Billy matches Kimberly 20%
+Jason matches Kimberly 20%
+Kimberly matches Billy 20%
+Kimberly matches Trini 20%
+Tommy matches Kimberly 20%
+Trini matches Kimberly 20%
+Kimberly matches Gender 12%
