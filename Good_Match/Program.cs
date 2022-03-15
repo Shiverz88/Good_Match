@@ -281,7 +281,7 @@ namespace Good_Match
 
             File.WriteAllLines(filePath, ResultString.Select(x => string.Join(",", x)));
 
-            Console.WriteLine("Results will be printed to output.txt \n");//the output.txt file is located in the Debug folder
+            Console.WriteLine("Results will be printed to output.txt \n");//the output.txt file is located in the Good_Match folder
 
             Console.WriteLine(String.Join(",\n", ResultString));
 
@@ -290,7 +290,7 @@ namespace Good_Match
 }
 /*Having only used C# in limited capacity before this has project absolutely battered me,
  I felt like I got into the ring with Mike Tyson. However with the help of My coaches
-W3Schools, C-Sharpcorner, Stackoverflow and others i just about managed to produce something that seems
+W3Schools, C-Sharpcorner, Stackoverflow and others I just about managed to produce something that seems
 like it works, at least with what I'm currently capable of, but there are some things I could not figure out in time.*/
             
         
